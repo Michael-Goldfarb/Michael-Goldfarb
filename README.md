@@ -23,8 +23,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-goldfarb" alt="michael-goldfarb" /></a> </p>
 
-<p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=michael-goldfarb" alt="michael-goldfarb" width="500" />&nbsp;</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-goldfarb&show_icons=true&locale=en" alt="michael-goldfarb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-goldfarb&" alt="michael-goldfarb" /></p>
