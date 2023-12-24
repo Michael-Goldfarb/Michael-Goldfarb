@@ -24,5 +24,5 @@
 <h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-goldfarb" alt="michael-goldfarb" /></a> </p>
 
-<h3 align="left">Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-goldfarb&show_icons=true&locale=en" alt="michael-goldfarb" /></p>
+<h3 align="left">Views:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-goldfarb&label=Profile%20views&color=0e75b6&style=flat" alt="michael-goldfarb" /> </p>
