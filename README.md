@@ -18,11 +18,11 @@
 <h3 align="left">My Stats:</h3>
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=michael-goldfarb&langs_count=6&hide=scss,css&&show_icons=true&layout=compact&hide_border=true&theme=dark" height = 150>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=michael-goldfarb&hide_border=true&no-bg=true" height = 150>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=michael-goldfarb&hide_border=true&theme=dark" height = 150>
 </p>
 
 <h3 align="left">Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-goldfarb&no-bg=true" alt="michael-goldfarb" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-goldfarb" alt="michael-goldfarb trophies" /></a> </p>
 
 <h3 align="left">Views:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-goldfarb&label=Profile%20views&color=0e75b6&style=flat" alt="michael-goldfarb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-goldfarb&label=Profile%20views&color=0e75b6&style=flat" alt="michael-goldfarb views" /> </p>
