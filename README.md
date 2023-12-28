@@ -18,7 +18,7 @@
 <h3 align="left">My Stats:</h3>
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=michael-goldfarb&langs_count=6&hide=scss,css&&show_icons=true&layout=compact&hide_border=true&theme=dark" height = 150>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=michael-goldfarb&hide_border=true&theme=dark" height = 150>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=michael-goldfarb&hide_border=true&no-bg=true" height = 150>
 </p>
 
 <h3 align="left">Trophies:</h3>
