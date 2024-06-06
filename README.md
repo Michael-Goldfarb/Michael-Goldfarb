@@ -20,11 +20,11 @@
   <tr>
      <td width="33%" valign="center">
       <h6>🐱‍👤 Codewars Stats Card</h6>
-      <a href="https://www.codewars.com/users/bkpecho">
+      <a href="https://www.codewars.com/users/michael-goldfarb">
         <img
           title="Codewars Stats Card"
-          alt="Bryan King Pecho's Codewars Stats Card"
-          src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=bkpecho&theme=dark&primaryColor=3aaded"
+          alt="Michael Goldfarb's Codewars Stats Card"
+          src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=michael-goldfarb&theme=dark&primaryColor=3aaded"
         />
       </a>
     </td>
@@ -33,10 +33,10 @@
       <p align="center">
         <img
           title="🔥 Get streak stats for your profile at git.io/streak-stats"
-          alt="BK Pecho's streak"
-          src="https://streak-stats.demolab.com/?user=bkpecho&theme=react&background=black&currStreakNum=white&currStreakLabel=white&fire=3aaded&ring=3aaded&sideNums=3aaded&sideLabels=white&dates=3aaded&hide_border=true"
+          alt="Michael Goldfarb's streak"
+          src="https://streak-stats.demolab.com/?user=michael-goldfarb&theme=react&background=black&currStreakNum=white&currStreakLabel=white&fire=3aaded&ring=3aaded&sideNums=3aaded&sideLabels=white&dates=3aaded&hide_border=true"
         />
-        <a href="https://committers.top/philippines#bkpecho">
+        <a href="https://committers.top/unitedstates#michael-goldfarb">
           <img
             src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=3aaded"
           />
@@ -46,11 +46,11 @@
     <td width="33%" valign="center">
       <h6>📚 LeetCode Stats Card</h6>
       <p align="center">
-        <a href="https://leetcode.com/bkpecho/">
+        <a href="https://leetcode.com/michaelgoldfarb6/">
           <img
             title="LeetCode Stats Card"
-            alt="Bryan King Pecho's LeetCode Stats Card"
-            src="https://leetcard.jacoblin.cool/bkpecho?theme=dark&font=Encode%20Sans&hide=ranking"
+            alt="Michael  Goldfarb's LeetCode Stats Card"
+            src="https://leetcard.jacoblin.cool/michaelgoldfarb6?theme=dark&font=Encode%20Sans&hide=ranking"
           />
         </a>
       </p>
