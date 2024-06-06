@@ -38,7 +38,7 @@
         />
         <a href="https://committers.top/unitedstates#michael-goldfarb">
           <img
-            src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=3aaded"
+            src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN USA&labelColor=black&message=Top 1%&color=black&style=for-the-badge&logo=github&logoColor=3aaded"
           />
         </a>
       </p> 
