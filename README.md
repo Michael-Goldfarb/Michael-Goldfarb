@@ -29,5 +29,5 @@
 
 <h3 align="left">Views:</h3>
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=michael-goldfarb&label=Profile%20views&color=0e75b6&style=flat&cache-bust=1" alt="michael-goldfarb views" />
+  ![](https://komarev.com/ghpvc/?username=michael-goldfarb&label=Profile%20views&color=0e75b6&style=flat&cache-bust=1)
 </p>
