@@ -25,7 +25,6 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=michael-goldfarb&hide_border=true&theme=dark" height = 150>
 </p>
 <h3 align="left">Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-goldfarb&theme=dark" alt="michael-goldfarb trophies" /></a> </p>
-
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-goldfarb&theme=onedark" alt="michael-goldfarb trophies" /></a></p>
 <h3 align="left">Views:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-goldfarb&label=Profile%20views&color=0e75b6&style=flat" alt="michael-goldfarb views" /> </p>
