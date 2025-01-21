@@ -19,7 +19,7 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a> 
 </p>
       
-<h3 align="left">My Stats:</h3>
+<h3 align="left">Stats:</h3>
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=michael-goldfarb&langs_count=6&hide=scss,css&&show_icons=true&layout=compact&hide_border=true&theme=dark" height = 150>
 <!--   <img src = "https://github-readme-streak-stats.herokuapp.com?user=michael-goldfarb&hide_border=true&theme=dark" height = 150>  -->
