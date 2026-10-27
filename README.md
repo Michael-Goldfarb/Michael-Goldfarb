@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michael Goldfarb</h1>
-<h3 align="center">I'm a computer science and business student at Lehigh University.</h3>
+<h3 align="center">I'm a Software Engineer II at Air.</h3>
 
 - 🔭 I’m currently working on [MLB Game Predictor](https://github.com/michael-goldfarb/MLBGamePredictor)
 
